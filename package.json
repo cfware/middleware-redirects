@@ -1,6 +1,6 @@
 {
   "name": "@cfware/middleware-redirects",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Middleware for HTTP redirects",
   "main": "index.js",
   "scripts": {
