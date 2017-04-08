@@ -37,8 +37,6 @@ const server = app.listen(0, 'localhost', () => {
 
 	console.log(`Example app listening at http://${addr.address}:${addr.port}`);
 });
-
-});
 ```
 
 ## Running tests
