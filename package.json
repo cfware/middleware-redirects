@@ -1,0 +1,26 @@
+{
+  "name": "@cfware/middleware-redirects",
+  "version": "0.0.1",
+  "description": "Middleware for HTTP redirects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfware/middleware-redirects.git"
+  },
+  "keywords": ["connect", "redirects", "301"],
+  "engines": {
+    "node": "~6.10.0"
+  },
+  "author": "Corey Farrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfware/middleware-redirects/issues"
+  },
+  "homepage": "https://github.com/cfware/middleware-redirects#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
