@@ -4,7 +4,6 @@
  * Middleware for Redirects
  *
  * @param {Object} mappings - Key = Source URL, Value = Destination URL.
- * @return 
  */
 module.exports = function middlewareRedirects(mappings) {
 	return (req, res, next) => {

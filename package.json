@@ -1,6 +1,6 @@
 {
   "name": "@cfware/middleware-redirects",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Middleware for HTTP redirects",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/cfware/middleware-redirects.git"
   },
-  "keywords": ["connect", "redirects", "301"],
+  "keywords": [
+    "connect",
+    "redirects",
+    "301"
+  ],
   "engines": {
     "node": "~6.10.0"
   },

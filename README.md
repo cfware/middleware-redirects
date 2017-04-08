@@ -1,4 +1,4 @@
-# middleware-redirects
+# @cfware/middleware-redirects
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -7,7 +7,7 @@
 This is a basic middleware for handling static redirects.  I use it for internal
 testing within `gulp serve`.  Chances are good it does not provide for your needs.
 
-### Install middleware-redirects
+### Install @cfware/middleware-redirects
 
 ```sh
 npm i --save-dev @cfware/middleware-redirects
@@ -19,7 +19,7 @@ npm i --save-dev @cfware/middleware-redirects
 'use strict';
 
 const connect = require('connect');
-const redirects = require('middleware-redirects');
+const redirects = require('@cfware/middleware-redirects');
 
 // create app
 const app = connect();
