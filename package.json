@@ -1,6 +1,6 @@
 {
   "name": "@cfware/middleware-redirects",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Middleware for HTTP redirects",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "301"
   ],
   "engines": {
-    "node": "~6.10.0"
+    "node": "~6.10.0 || ~7.9.0"
   },
   "author": "Corey Farrell",
   "license": "MIT",
