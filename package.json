@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/cfware/middleware-redirects#readme",
   "devDependencies": {
-    "eslint": "^3.19.0"
+    "eslint": "^4.11.0"
   }
 }
